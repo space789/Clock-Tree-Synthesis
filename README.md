@@ -251,4 +251,4 @@ This project is released under the MIT License.
 
 ---
 
-**Note**: For any issues or questions, please contact the project maintainer m11202168.
+**Note**: For any issues or questions, please contact the project maintainer.
